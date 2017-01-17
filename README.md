@@ -20,7 +20,7 @@ Here are the links for installing guides:
 
 Assuming you have installed GO Environment, to download the project, open Terminal and type:
 ```bash
-go get github.com/cbarlas/RESTful-Event-API
+go get github.com/cbarlas/PeakAPI
 ```
 After that you have downloaded the project, go to the project directory and:
 ```bash
