@@ -15,6 +15,7 @@ MariaDB as external data storage
 Here are the links for installing guides:
 * [GO](https://golang.org/doc/install)
 * [MariaDB](https://downloads.mariadb.org/mariadb/repositories/)
+
 ### Installing
 
 Assuming you have installed GO Environment, to download the project, open Terminal and type:
