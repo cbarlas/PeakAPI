@@ -64,7 +64,7 @@ var API_KEYS map[string]bool = map[string]bool{
 	"apiKey9": true,
 }
 ```
-Here are some arbitrary hexadecimal strings for representing vaild api key values for the app. They can be added, removed or changed from here.
+Here are some example strings for representing vaild api key values for the app. They can be added, removed or changed from here.
 The app runs on localhost and listens to `:8081` port.
 Head to the project directory on Terminal and run the app using:
 ```bash
